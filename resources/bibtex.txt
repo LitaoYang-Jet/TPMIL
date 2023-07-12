@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{yang2023tpmil,
+  title={TPMIL: Trainable Prototype Enhanced Multiple Instance Learning for Whole Slide Image Classification},
+  author={Yang, Litao and Mehta, Deval and Liu, Sidong and Mahapatra, Dwarikanath and Di Ieva, Antonio and Ge, Zongyuan},
+  journal={arXiv preprint arXiv:2305.00696},
+  year={2023}
 }
